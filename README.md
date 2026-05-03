@@ -14,7 +14,7 @@ This project implements three core Agentic Design Patterns:
 ## Setup & Run
 
 ```bash
-git clone https://github.com/yourusername/deep-research-system.git
+git clone https://github.com/15054707519/deep-research-system.git
 cd deep-research-system
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
@@ -76,7 +76,6 @@ Model Used
 Local Ollama + qwen2.5:7b (same model for producer and critic, but with distinct system prompts and roles, satisfying the requirement of "different systems").
 
 Author
-[wangzhaoyang]
-
+Wang Zhaoyang
 Assignment Source
 TSU Course – Task 2: Simple Deep Research System
